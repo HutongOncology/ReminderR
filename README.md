@@ -30,7 +30,7 @@ Download the free Bark app from the App Store: [Bark Official Website](https://a
 
 ```r
 # Usage Example
-library(RemindR)
+library(ReminderR)
 
 # Set your Bark device key (get this from the Bark app)
 set_bark_key("https://api.day.app/{your_device_key}")
